@@ -2,5 +2,6 @@
   <img src="https://i.pinimg.com/736x/a3/b7/fa/a3b7fa86f690c14f7c60b6af7ab5bc15.jpg" width="100%">
 </p>
 
-use Void Linux + dwm
-keyboard - corne v4
+### specs
+- **system:** void linux + dwm
+- **keyboard:** corne v4
