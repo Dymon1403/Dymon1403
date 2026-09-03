@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/93/42/93/934293f89fbb3047fadbbab79fa39a73.gif" width="50%">
+  <img src="https://i.pinimg.com/736x/b7/7d/19/b77d19b6338aef2313bd380fcefa2d43.jpg" width="50%">
 </p>
 
 ### specs
