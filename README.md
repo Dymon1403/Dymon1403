@@ -5,3 +5,4 @@
 ### specs
 - **system:** void linux + dwm
 - **keyboard:** corne v4
+- **laptop:** Thinkpad T430
