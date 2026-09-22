@@ -3,6 +3,6 @@
 </p>
 
 ### specs
-- **system:** void linux + dwm
-- **keyboard:** corne v4
+- **system:** NixOS + Hyprland
+- **keyboard:** corne v4 - autemu peach v3 && blank keycaps
 - **laptop:** Thinkpad T430
