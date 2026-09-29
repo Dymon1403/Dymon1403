@@ -5,4 +5,4 @@
 ### specs
 - **system:** NixOS + Hyprland
 - **keyboard:** corne v4 - autemu peach v3 && blank keycaps
-- **laptop:** Thinkpad T430
+- **laptop:** Thinkpad L490
