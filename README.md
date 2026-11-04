@@ -6,3 +6,5 @@
 - **system:** NixOS + Hyprland
 - **keyboard:** corne v4 - autemu peach v3 && blank keycaps
 - **laptop:** Thinkpad L490
+
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
