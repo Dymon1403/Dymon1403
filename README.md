@@ -8,3 +8,6 @@
 - **laptop:** Thinkpad L490
 
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
+![Autechre](https://img.shields.io/badge/Autechre-000000?style=for-the-badge&logo=applemusic&logoColor=white)
+![IDM](https://img.shields.io/badge/IDM-Nerd-6A5ACD?style=for-the-badge)
+![ThinkPad](https://img.shields.io/badge/ThinkPad-000000?style=for-the-badge&logo=lenovo&logoColor=white)
