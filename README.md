@@ -8,6 +8,6 @@
 - **laptop:** Thinkpad L490
 
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
-![Autechre](https://img.shields.io/badge/Autechre-000000?style=for-the-badge&logo=applemusic&logoColor=white)
-![IDM](https://img.shields.io/badge/IDM-Nerd-6A5ACD?style=for-the-badge)
-![ThinkPad](https://img.shields.io/badge/ThinkPad-000000?style=for-the-badge&logo=lenovo&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=black)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
